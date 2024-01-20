@@ -10,4 +10,6 @@ console.log(numbers.length);
 console.log(numbers);
 }
 
-methods();
+methods(); 
+
+
