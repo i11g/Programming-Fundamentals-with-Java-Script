@@ -1,0 +1,4 @@
+function passowrdValidator(text) {
+
+}
+passowrdValidator();
