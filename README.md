@@ -13,7 +13,8 @@ This repository contains my solutions, tasks and homeworks problems for Programm
 The tasks and problems in the repo focus on :
 - Handling the standard functionality of Java Script 
 - Working with linear data structures
-- Declaring and working with functions
+- Declaring and working with methods and functions
+- Working with Objects and Classes
 
 ## Technologies Used
 - Java Script
