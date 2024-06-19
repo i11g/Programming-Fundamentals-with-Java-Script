@@ -1,11 +1,10 @@
 # Programming Fundamentals with Java Script
-This repository contains my solutions, tasks and homeworks problems during my learning of Programming Fundamentls with Java Script. 
+This repository contains my solutions, tasks and homeworks problems for Programming Fundamentls with Java Script. 
 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 * [License](#license) 
